@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+zD8wT5CejIyUfnfo18I0ts0WnhDSOIMXK85H/OWZY2OVfjiUpR9F5KbG4a3JFxKsVVk/3CCOq5yrlE4mYiOhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Pokemoon\\PREFINAL-POKEMON-RM-Rentoria-BSCS-32E1\\PokemonApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
